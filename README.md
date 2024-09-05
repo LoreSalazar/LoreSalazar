@@ -3,6 +3,6 @@
 ## Soy ingeniera en electrónica
 
 
-## Mis estadísticas son:
+## Mis estadisticas son:
 
-[![Anurag's GitHub stats](https://github-readme-stats.verce1.app/api?username=LoreSalazar)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreSalazar)](https://github.com/anuraghazra/github-readme-stats)
