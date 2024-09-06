@@ -1,8 +1,14 @@
-## ¡Hola a todos! 👋 Mi nombre es Lorena Salazar 
+## Hi everyone! 👋 My name is Lorena Salazar 😸
 
-## Soy ingeniera en electrónica
+## I'm an electronics engineer and I love programming
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FLoreSalazar&up_color=black&style=for-the-badge)](https://github.com/LoreSalazar) 
 
 
-## Mis estadisticas son:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreSalazar&show_icons=true&theme=radical)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoreSalazar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSalazar&show_icons=true&theme=radical)
+
+
+
+
