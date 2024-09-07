@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoreSalazar&show_icons=true&theme=radical)
 
-<img align="left" alt="VisualStudioCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg"/>  <img align="left" alt="VisualStudio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudio.svg"/>  Working with C and C++
+<img align="left" alt="VisualStudioCode" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>  <img align="left" alt="VisualStudio" width="30px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>  Working with C and C++
 
 
 
