@@ -1,6 +1,6 @@
 ## Hi everyone! 👋 My name is Lorena Salazar 😸
 
-## I'm an electronics engineer and I love programming
+## I'm an electronic engineer and I love programming
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FLoreSalazar&up_color=black&style=for-the-badge)](https://github.com/LoreSalazar) 
 
